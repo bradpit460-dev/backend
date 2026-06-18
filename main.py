@@ -8,8 +8,6 @@ import firebase_init
 from database import engine
 from models import Base
 
-# Start background scheduler
-start_scheduler()
 
 # -----------------------------------------------------------
 # CREATE DATABASE TABLES
